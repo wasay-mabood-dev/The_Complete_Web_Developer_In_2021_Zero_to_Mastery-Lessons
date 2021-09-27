@@ -1,0 +1,19 @@
+{
+  "name": "lessons",
+  "version": "1.0.0",
+  "description": "Adding Lesson notes to github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wasay-mabood-dev/The_Complete_Web_Developer_In_2021_Zero_to_Mastery-Lessons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wasay-mabood-dev/The_Complete_Web_Developer_In_2021_Zero_to_Mastery-Lessons/issues"
+  },
+  "homepage": "https://github.com/wasay-mabood-dev/The_Complete_Web_Developer_In_2021_Zero_to_Mastery-Lessons#readme"
+}
