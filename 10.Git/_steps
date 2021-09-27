@@ -1,0 +1,45 @@
+======
+Basics
+======
+
+1.  Install git
+
+2.  Create a repository on GitHub or GitLab
+
+3.  Grab the HTTPS link
+
+4.  git clone [HTTPS Link] | clone the repository to your computer
+
+5.  git status | see which files have been changed
+
+6.  git add . | add the changed files to what you'll send to your online repository
+
+7.  git commit - m "[useful message]" | commit to which files are going to be sent to the online repository
+
+8.  git push | push all the changes to online repository
+
+9.  git pull | pull all the changes from the online repo to the new location
+
+=========
+Branching
+=========
+
+0.  Don't ever do work on the main branch
+
+1.  git branch | show all current branches
+
+2.  git branch littleFeature | creates a branch called littleFeature
+
+3.  git checkout littleFeature | switch to the branch called littleFeature
+
+4.  change a file, git status, git add, git commit
+
+5.  git push origin littleFeature
+
+6.  git checkout main | go back to main branch
+
+7.  git commit -m | add a message for the merge
+
+8.  git merge littleFeature | merge the branch to main
+
+9.  git push | make sure main is updated in the online repository
